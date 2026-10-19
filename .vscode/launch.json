@@ -1,0 +1,19 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "Ejecutar RecepcionPackingUva",
+      "request": "launch",
+      "mainClass": "RecepcionPackingUva",
+      "cwd": "${workspaceFolder}"
+    },
+    {
+      "type": "java",
+      "name": "Ejecutar CodigoBasico",
+      "request": "launch",
+      "mainClass": "CodigoBasico",
+      "cwd": "${workspaceFolder}"
+    }
+  ]
+}
